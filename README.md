@@ -1,4 +1,4 @@
-I'm a student, startup founder, and design engineer specialized in AI interfaces.
+I'm a student, startup founder, and design engineer specialized in AI interfaces. (Most of my commits come from private repos!)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
